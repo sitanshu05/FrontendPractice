@@ -29,8 +29,7 @@
    border-radius: 1rem;
    box-shadow: 5px 5px 5px rgba(0,0,0,0.05);
    margin-bottom: 2rem;
-   width: 80%;
-   height: 78%;
+
   }
 .tit{
   color: hsl(218, 44%, 22%);
@@ -44,7 +43,8 @@
 p{
   text-align: center;
   margin: 0 1rem ;
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
   font-size: 17px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
